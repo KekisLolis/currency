@@ -12,7 +12,6 @@ public class currency : MonoBehaviour
     public TMP_InputField date;
     public TMP_InputField message;
     public Button button;
-    
     public GameObject canvas1;
     public GameObject canvas2;
     
